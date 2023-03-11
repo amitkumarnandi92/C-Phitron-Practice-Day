@@ -3,7 +3,6 @@ float aoc(float);
 int main()
 {
     float r,result;
-    //printf("Enter radius of a circle: ");
     scanf("%f",&r);
     result=aoc(r);
     printf("%f",result);
